@@ -1,0 +1,37 @@
+body
+{
+background-color:#fdb9fd ;
+font-family: cursive;
+}
+
+.header_div
+{
+    background:#fdb9fd;
+    color:orange;
+    font-size: 35px;
+}
+
+.header_div p
+{
+color: red;
+font-size: small;
+font-weight: bold;
+}
+
+.main_div button
+{
+  margin-top: 30px;  
+  width: 130px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.copy_right_footer
+{
+  color: white;  
+  position: fixed;
+  width: 100%;
+  font-size: 22px;
+  text-align: center;
+  text-shadow: 5px 5px 5px rgb(90, 255, 200);
+}
