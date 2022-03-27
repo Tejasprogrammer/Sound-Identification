@@ -1,12 +1,12 @@
 body
 {
-background-color:#fdb9fd ;
-font-family: cursive;
+  background-color:#00d9ff ;
+font-family: 'Ramaraja', serif;
 }
 
 .header_div
 {
-    background:#fdb9fd;
+  background-color:pink ;
     color:orange;
     font-size: 35px;
 }
@@ -24,6 +24,7 @@ font-weight: bold;
   width: 130px;
   font-weight: bold;
   letter-spacing: 2px;
+  
 }
 
 .copy_right_footer
